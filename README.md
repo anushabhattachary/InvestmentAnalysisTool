@@ -8,7 +8,7 @@ AI-powered investment platform
 **Automated Investment Screener** – Ranks stocks/crypto based on custom indicators.
 
 
-## **1️⃣ High-Level Plan**
+## **High-Level Plan**
 
 Project consists of **3 key components**:
 
