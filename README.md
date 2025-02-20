@@ -1,4 +1,4 @@
-# InvestmentAnalysisTool
+# Investment Analysis Tool
 AI-powered investment platform
 
 **A Personalized Robo-Advisor** – Recommends investments based on user preferences.
